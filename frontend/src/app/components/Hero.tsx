@@ -27,16 +27,15 @@ export default function Hero() {
         className="relative z-10 max-w-4xl"
       >
         {/* Headline: Uses tracking-tighter and leading-tight to match the tight spacing in the image */}
-        <h1 className="text-5xl md:text-7xl font-semibold tracking-tighter leading-[1.1] text-white">
-          The AI layer that brings <br />
+        <h1 className="text-5xl md:text-6xl font-semibold tracking-tighter leading-[1.1] text-white">
+          Smarter Code generation<br />
           {/* "clarity" uses font-light and italic for that specific contrast */}
-          <span className="italic font-light text-white/90">clarity</span> to complexity.
+          <span className="italic font-light text-white/90">starts</span> here.
         </h1>
 
         {/* Subtext: Font size lowered and weight set to light */}
         <p className="mt-8 text-gray-400 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed font-light">
-          Our platform integrates seamlessly into your stack to deliver 
-          real-time understanding, not just predictions.
+          Our platform utilises a Multi Agent Collaborative Approach in generating, debugging and documenting.
         </p>
 
         {/* Buttons: Clean black and white design */}
